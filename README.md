@@ -136,7 +136,7 @@ Refer to `database_ODC.png` for the database schema.
 
 * Rexlin Nadar (ID: Rexlin29)
 * Jenica Kodankandath (ID: Theresenic)
-* Jasmitkaur Mukhtiar
+* Jasmitkaur Mukhtiar (ID: Jaskaurmukhtiar ) 
 * Tanvi Mhasal
 
 ---
